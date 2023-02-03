@@ -1,6 +1,6 @@
 # Polyglot URL Shortener
 This example shows how to create a URL shortener using multiple languages.
-In this example project we are using Python and NodeJS along with [Metacall](https://github.com/metacall) to run the application.
+In this example project I used Python and NodeJS along with [Metacall](https://github.com/metacall) to run the application.
 
 ## Instructions
 1. Install `metacall`: 
