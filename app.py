@@ -1,6 +1,5 @@
 import requests
 from urllib.parse import urlencode
-import sys
 
 
 def makeTiny(url):
